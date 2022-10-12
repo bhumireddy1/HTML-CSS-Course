@@ -7,6 +7,13 @@
      border-radius: 2px;
      cursor: pointer;
      margin-right: 8px;
+     transition: opacity 0.15s;
+}
+.subscribe-button:hover{
+     background-color: rgba(255, 0, 0, 0.432);
+}
+.subscribe-button:active{
+     opacity: 0.8;
 }
 .jion-button{
      background-color: white;
@@ -18,6 +25,13 @@
      width:62px;
      border-radius: 2px;
      cursor: pointer;
+}
+.jion-button:hover{
+     background-color: rgb(41,118,211);
+     color:white;
+}
+.jion-button:active{
+     opacity: 0.7;
 }
 .tweet-button{
      color:white;
