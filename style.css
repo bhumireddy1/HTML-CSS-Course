@@ -8,3 +8,26 @@
      cursor: pointer;
      margin-right: 8px;
 }
+.jion-button{
+     background-color: white;
+     border-color:rgb(41,128,211);
+     border-style:solid;
+     border-width: 1px;
+     color:rggb(41,128,211);
+     height:36px;
+     width:62px;
+     border-radius: 2px;
+     cursor: pointer;
+}
+.tweet-button{
+     color:white;
+     background-color: rgb(2, 158,255);
+     border: none;
+     height: 36px;
+     width:70px;
+     border-radius:18px;
+     font-size: 15px;
+     font-weight: bold;
+     cursor: pointer;
+     margin-left: 8px;
+}
